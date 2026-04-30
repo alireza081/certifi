@@ -1,0 +1,8 @@
+{
+  "name": "rasouli",
+  "version": "1.0.0",
+  "description": "Edd runtim",
+  "private": true,
+  "license": "MIT",
+  "type": "module"
+}
